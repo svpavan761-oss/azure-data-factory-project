@@ -1,0 +1,15 @@
+{
+	"name": "namealreadytaken123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad69302e-831f-4d1b-bb45-5fd770e51c79",
+		"tenantId": "fbf15e6a-def0-4f00-b0fd-30db3553cd72"
+	}
+}
